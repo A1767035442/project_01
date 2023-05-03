@@ -1,5 +1,5 @@
-#����index.css�ļ�
+# 忽略index.css文件
 index.css
 
-#����testĿ¼�µ��ļ�
+# 忽略test目录下的所有文件
 test/
